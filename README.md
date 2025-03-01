@@ -1,7 +1,7 @@
-[![MasterHead](https://www.franklywearing.com/d/a3-poster-python-coder-i-speak-parseltongue-240278?variant_id=292)]
+[![MasterHead]("Pictures\pythonlogo.webp")](https://www.franklywearing.com)
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">Junior Python Developer | Passionate About Problem-Solving & Scalable Solutions | Seeking Full-Time Role</h3>
-(img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy")
+<img align="right" alt="Coding" width="400" src="Pictures/pythonlogo2.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojr17&label=Profile%20views&color=0e75b6&style=flat" alt="manojr17" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **I'm currently learning Artificial Intelligence and Data Science, and I have also completed an Advanced Python with AI course.**
 
-- 💬 Ask me about **Flask or Django (Python frameworks) , AI ChatBot or a Machine Learning and Computer Vision with Deep Learning.visualization and**
+- 💬 Ask me about **Flask or Django (Python frameworks) , AI ChatBot or a Machine Learning and Computer Vision with Deep Learning.visualization .
 
 - 📫 How to reach me **manoravi39@gmail.com**
 
