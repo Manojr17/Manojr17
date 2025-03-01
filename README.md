@@ -1,7 +1,6 @@
-[![MasterHead]("Pictures\pythonlogo.webp")](https://www.franklywearing.com)
+
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">Junior Python Developer | Passionate About Problem-Solving & Scalable Solutions | Seeking Full-Time Role</h3>
-<img align="right" alt="Coding" width="400" src="Pictures/pythonlogo2.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojr17&label=Profile%20views&color=0e75b6&style=flat" alt="manojr17" /> </p>
 
